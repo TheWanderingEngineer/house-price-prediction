@@ -83,6 +83,7 @@ model = joblib.load("models/house_price_model.pkl")`
 
 ## Project Structure
 
+```text
 house-price-prediction/
 ├── README.md
 ├── notebook.ipynb
