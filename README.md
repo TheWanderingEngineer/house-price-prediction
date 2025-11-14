@@ -49,7 +49,7 @@ All preprocessing logic is implemented in `src/utils.py`.
 
 ---
 
-## **🤖 Models Trained**
+## **Models**
 Three regression models were trained for comparison:
 
 | Model | RMSE (Validation) |
