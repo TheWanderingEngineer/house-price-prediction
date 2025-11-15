@@ -59,7 +59,7 @@ Three regression models were trained for comparison:
 | **Linear Regression**           | ~51,970 |
 
 The model performed the best is saved as the final model.
-* Note: These results are from a random run, GB and RF are generally close in performance on this specific dataset with the current setup
+* Note: These results are from a random run, GB and RF are generally close in performance on this specific dataset with the current setup. **The model can also be improved by ensembling, hyperparameter optimization techniques (e.g. Grid Search), feature engineering, stronger models, and more.**
 ---
 
 ## **Feature Importance**
